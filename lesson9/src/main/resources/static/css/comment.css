@@ -1,0 +1,22 @@
+main .commentMain {
+    margin-top: 1rem;
+}
+
+
+main .commentTitle {
+    font-size: 1.3rem;
+    color: var(--caption-color);
+    font-weight: bold;
+}
+
+main .commentTime {
+
+}
+
+main .commentText {
+    font-size: 1.4rem;
+}
+
+main .commentInput {
+    max-width: 100%;
+}
