@@ -10,6 +10,7 @@ WEB course in ITMO
     <li>jQuery aJax</li>
     <li>MariaDB</li>
     <li>SQL</li>
+    <li>Freemarker</li>
     <li>Java Servlets API</li>
     <li>HTTP</li>
     <li>HTML, CSS, JS</li>
