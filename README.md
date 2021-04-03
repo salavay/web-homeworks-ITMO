@@ -2,8 +2,8 @@
 WEB course in ITMO
 
 ### Tecgnologies studied:
-Spring Hibirnate
-Spring MVC
+Spring Hibirnate \\
+Spring MVC \\
 Vue.js
 jQuery aJax
 MariaDB
