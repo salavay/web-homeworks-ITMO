@@ -2,14 +2,16 @@
 WEB course in ITMO
 
 ### Tecgnologies studied:
-Spring Hibirnate \\
-Spring MVC \\
-Vue.js
-jQuery aJax
-MariaDB
-SQL
-Java Servlets API
-HTTP
-HTML
-CSS
-JS
+<ul> 
+    <li>Spring Hibernate</li>
+    <li>Spring MVC</li>
+    <li>Vue.js</li>
+    <li>Rest API</li>
+    <li>jQuery aJax</li>
+    <li>MariaDB</li>
+    <li>SQL</li>
+    <li>Java Servlets API</li>
+    <li>HTTP</li>
+    <li>HTML, CSS, JS</li>
+</ul>
+
